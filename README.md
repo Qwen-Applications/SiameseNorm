@@ -1,6 +1,10 @@
-## SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm
+## [ICML 2026] SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm
 
 This repository contains the official implementation of paper [SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm](https://arxiv.org/abs/2602.08064).
+
+### News
+
+May 1, 2026: Paper accepted to ICML 2026.
 
 ### Abstract
 
