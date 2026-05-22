@@ -3,7 +3,7 @@
 This repository contains the official implementation of paper [SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm](https://arxiv.org/abs/2602.08064).
 
 ### News
-May 22, 2026: We provide SiameseNorm implementations [DeiT](https://github.com/facebookresearch/deit), and [DiT](https://github.com/facebookresearch/DiT). These implementations can be integrated into the corresponding official repositories by replacing the relevant modules, while keeping the original training and evaluation pipelines unchanged.
+May 22, 2026: We provide SiameseNorm implementations for [DeiT](https://github.com/facebookresearch/deit) and [DiT](https://github.com/facebookresearch/DiT). These implementations can be integrated into the corresponding official repositories by replacing the relevant modules, while keeping the original training and evaluation pipelines unchanged.
 #### Cross-Modal Generality
 
 | Model | Metric | Pre-Norm | SiameseNorm |
