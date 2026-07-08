@@ -86,7 +86,11 @@ If you find this work helpful or use it in your research, please consider citing
   year={2026}
 }
 ```
+### Contact
 
+If you have any questions, please feel free to contact the authors.
+
+Tianyu Li: [tianyu-l22@mails.tsinghua.edu.cn](mailto:tianyu-l22@mails.tsinghua.edu.cn)
 ### Acknowledgment
 
 -----------
